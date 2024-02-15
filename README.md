@@ -1,3 +1,8 @@
-| with padding (bug?) | w/o padding |
-| - | - |
-| https://github.com/rmyhal/animated-content-animation-issue-sample/assets/8909650/b9788c1a-b164-407d-8bc1-c15ea028346e | https://github.com/rmyhal/animated-content-animation-issue-sample/assets/8909650/f66faa34-51b0-4d43-bc62-6700ba25dfe3 |
+With padding _(enter animation is broken)_: 
+
+https://github.com/rmyhal/animated-content-animation-issue-sample/assets/8909650/b460f872-f2e7-4b18-917a-544bdc4cb709
+
+W/o padding _(enter animation works fine)_:
+
+https://github.com/rmyhal/animated-content-animation-issue-sample/assets/8909650/d6af24d5-69dc-43af-a9f2-307d8e8ea454
+
